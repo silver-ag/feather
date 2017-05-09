@@ -10,5 +10,4 @@ run
 ```
 ./build.sh
 ```
-to generate feather.iso
-It is very strongly recommended that you only run feather in a virtual machine, especially at this stage.
+to generate `feather.iso`. It is very strongly recommended that you only run feather in a virtual machine, especially at this stage.
